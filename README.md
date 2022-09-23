@@ -1,6 +1,6 @@
 # Terraform_Practise
 
-<h3> You only have to add your  <bold> <italics> access keys </italics> </bold> and <bold> <italics> secret keys </italics> </bold> to use these codes. </h3>
+<h3> You only have to add your  <bold> <italic> access keys </italic> </bold> and <bold> <italics> secret keys </italics> </bold> to use these codes. </h3>
 
 <h3> You also have to run a command to download the modules of AWS </h3>
 
